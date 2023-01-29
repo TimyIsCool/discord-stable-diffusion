@@ -1,4 +1,4 @@
-# Shanghai - AI Powered Art in a Discord Bot!
+# PixaAnime - AI Powered Art in a Discord Bot!
 
 <img src=https://cdn.discordapp.com/attachments/971549874514444358/1012400070559277086/1502073419.png?3867929 width=50% height=50%>
 
